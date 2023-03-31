@@ -4,6 +4,7 @@ pipeline {
   environment {
     IMAGE_NAME = "eeacms/advisory-board-backend"
     GIT_NAME = "advisory-board-backend"
+    SONARQUBE_TAG = 'climate-advisory-board.europa.eu' 
   }
 
   parameters {
@@ -45,6 +46,24 @@ pipeline {
     }
 
 
+    stage('Update SonarQube Tags: Prod') {
+      when {
+        not {
+          environment name: 'SONARQUBE_TAG', value: ''
+        }
+        buildingTag()
+      }
+      steps{
+        node(label: 'docker') {
+          withSonarQubeEnv('Sonarqube') {
+            withCredentials([string(credentialsId: 'eea-jenkins-token', variable: 'GIT_TOKEN')]) {
+              sh '''docker pull eeacms/gitflow'''
+              sh '''docker run -i --rm --name="${BUILD_TAG}-sonar" -e GIT_NAME=${GIT_NAME} -e GIT_TOKEN="${GIT_TOKEN}" -e SONARQUBE_TAG=${SONARQUBE_TAG} -e SONARQUBE_TOKEN=${SONAR_AUTH_TOKEN} -e SONAR_HOST_URL=${SONAR_HOST_URL}  eeacms/gitflow /update_sonarqube_tags_backend.sh'''
+            }
+          }
+        }
+      }
+    }
  }
 
   post { 
