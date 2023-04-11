@@ -6,12 +6,13 @@ globalTests+=(
 )
 
 imageTests+=(
-	[eeacms/advisory-board-backend]='
+	[eeacms/plone-backend]='
 		plone-basics
 		plone-site
 		plone-addons
 		plone-cors
 		plone-arbitrary-user
+		plone-listenport
 		plone-zeoclient
 		plone-relstorage
 	'
