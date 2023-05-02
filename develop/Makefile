@@ -59,7 +59,7 @@ clean:			## Cleanup environment
 .PHONY: bootstrap
 bootstrap:		## Bootstrap python environment
 	$(PYTHON) -m venv .
-	bin/pip install --upgrade pip mxdev pylint black
+	bin/pip install --upgrade pip mxdev pylint black -c "https://dist.plone.org/release/$(PLONE_VERSION)/constraints.txt" $(PIP_PARAMS)
 
 .PHONY: install
 install:		## Install Plone and develop add-ons
