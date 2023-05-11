@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [6.0.3-8](https://github.com/eea/advisory-board-backend/releases/tag/6.0.3-8) - 2023-05-11T23:19:38Z
+
+### Internal
+
+- docs: Update changelog with release information - [valentinab25 -  [`2a5d436`](https://github.com/eea/advisory-board-backend/commit/2a5d436d6ff4711b281e940c210e0e52abf45886)]
+
 ## [6.0.3-7](https://github.com/eea/advisory-board-backend/releases/tag/6.0.3-7) - 2023-05-05T16:53:19Z
 
 ### Plone
