@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [6.0.3-9](https://github.com/eea/advisory-board-backend/releases/tag/6.0.3-9) - 2023-05-16T12:51:02Z
+
+### Dependency updates
+
+##### [eea.coremetadata](https://pypi.org/project/eea.coremetadata/#changelog): 3.0 ~ 3.1
+
+
 ## [6.0.3-8](https://github.com/eea/advisory-board-backend/releases/tag/6.0.3-8) - 2023-05-11T23:19:38Z
 
 ### Internal
