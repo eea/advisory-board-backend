@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.0.3-10](https://github.com/eea/advisory-board-backend/releases/tag/6.0.3-10) - 2023-05-23T13:46:00Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.3-7 ~ 6.0.3-8 
+
+##### eeacms/plone-backend:[6.0.3-8](https://github.com/eea/plone-backend/releases/tag/6.0.3-8)
+###### Internal
+
+- add dependent dockerfiles - [valentinab25 - [`c1392ed`](https://github.com/eea/plone-backend/commit/c1392edcbf60e2b15b8d3cd0c32a38fc85afe520)]
+
+
 ## [6.0.3-9](https://github.com/eea/advisory-board-backend/releases/tag/6.0.3-9) - 2023-05-16T12:51:02Z
 
 ### Dependency updates
