@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.0.5-2](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-2) - 2023-05-31T23:52:37Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.5-1 ~ 6.0.5-2 
+
+##### eeacms/plone-backend:[6.0.5-2](https://github.com/eea/plone-backend/releases/tag/6.0.5-2)
+###### Dependency updates
+
+###### [eea.kitkat](https://github.com/eea/eea.kitkat/releases): 5.0 ~ 6.0
+
+
 ## [6.0.5-1](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-1) - 2023-05-30T23:54:59Z
 
 ### Plone
