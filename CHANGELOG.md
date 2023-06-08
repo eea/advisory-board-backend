@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [6.0.5-5](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-5) - 2023-06-08T23:54:28Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.5-4 ~ 6.0.5-5 
+
+##### eeacms/plone-backend:[6.0.5-5](https://github.com/eea/plone-backend/releases/tag/6.0.5-5)
+###### Internal
+
+- Add cache ENV variables. - [Petchesi-Iulian - [`fa3dac8`](https://github.com/eea/plone-backend/commit/fa3dac81855acc486b473e6e12b406733ab1666b)]
+- Change zodb cache size to 250k - [Petchesi-Iulian - [`fc2808f`](https://github.com/eea/plone-backend/commit/fc2808f9076c1027c1ecbdafed042ed6663b194c)]
+
+
 ## [6.0.5-4](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-4) - 2023-06-07T00:58:04Z
 
 ### Plone
