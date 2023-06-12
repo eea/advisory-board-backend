@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.0.5-6](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-6) - 2023-06-12T23:58:13Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.5-5 ~ 6.0.5-6 
+
+##### eeacms/plone-backend:[6.0.5-6](https://github.com/eea/plone-backend/releases/tag/6.0.5-6)
+###### Dependency updates
+
+###### [eea.graylogger](https://pypi.org/project/eea.graylogger/#changelog): 2.3 ~ 2.4
+
+
 ## [6.0.5-5](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-5) - 2023-06-08T23:54:28Z
 
 ### Plone
