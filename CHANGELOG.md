@@ -1,6 +1,28 @@
 # Changelog
 
 
+## [6.0.5-8](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-8) - 2023-07-31T13:24:11Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.5-7 ~ 6.0.5-8 
+
+##### eeacms/plone-backend:[6.0.5-8](https://github.com/eea/plone-backend/releases/tag/6.0.5-8)
+###### Dependency updates
+
+###### [collective.exportimport](https://pypi.org/project/collective.exportimport/#changelog): 1.9 ~ 1.10rc1
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 2.2 ~ 2.3
+
+* Docs: Update sonarqube tags
+ [valipod]
+
+###### Internal
+
+- Release collective.exportimport 1.10rc1 - [Alin Voinea - [`c439fad`](https://github.com/eea/plone-backend/commit/c439fade62d3f594e608bade0b0275936c3f02bf)]
+- Document collective.exportimport custom version pin - [Alin Voinea - [`4551df0`](https://github.com/eea/plone-backend/commit/4551df012e92557100d70e86201ad930969c6014)]
+
+
 ## [6.0.5-7](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-7) - 2023-07-21T23:56:26Z
 
 ### Plone
