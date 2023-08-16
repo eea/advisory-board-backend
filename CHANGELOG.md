@@ -1,6 +1,73 @@
 # Changelog
 
 
+## [6.0.6-1](https://github.com/eea/advisory-board-backend/releases/tag/6.0.6-1) - 2023-08-16T23:23:31Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.5-9 ~ 6.0.6-1 
+
+##### eeacms/plone-backend:[6.0.6-1](https://github.com/eea/plone-backend/releases/tag/6.0.6-1)
+###### Plone
+
+###### Upgrade 6.0.5 ~ 6.0.6 
+
+* Plone [6.0.6](https://plone.org/download/releases/6.0.6)
+
+###### Dependency updates
+
+###### [cryptography](https://pypi.org/project/cryptography/#changelog): 40.0.2 ~ 41.0.1
+
+###### [dnspython](https://pypi.org/project/dnspython/#changelog): 2.3.0 ~ 2.4.2
+
+###### [ijson](https://pypi.org/project/ijson/#changelog): 3.2.0.post0 ~ 3.2.3
+
+###### [oic](https://pypi.org/project/oic/#changelog): 1.6.0 ~ 1.6.1
+
+###### [pas.plugins.ldap](https://pypi.org/project/pas.plugins.ldap/#changelog): 1.8.2 ~ 1.8.3.dev0
+
+###### [robotframework-seleniumlibrary](https://pypi.org/project/robotframework-seleniumlibrary/#changelog): 6.0.0 ~ 6.1.0
+
+###### [selenium](https://pypi.org/project/selenium/#changelog): 4.9.0 ~ 4.9.1
+
+###### [sentry-sdk](https://pypi.org/project/sentry-sdk/#changelog): 1.24.0 ~ 1.29.2
+
+###### [trio-websocket](https://pypi.org/project/trio-websocket/#changelog): 0.10.2 ~ 0.10.3
+
+###### [yafowil.plone](https://pypi.org/project/yafowil.plone/#changelog): 4.0.0a5 ~ 4.0.0a6.dev0
+
+###### [zope.testrunner](https://pypi.org/project/zope.testrunner/#changelog): 5.6 ~ 6.0
+
+###### New packages
+
+###### [Authomatic](https://pypi.org/project/Authomatic/#changelog): 1.2.1
+
+###### [annotated-types](https://pypi.org/project/annotated-types/#changelog): 0.5.0
+
+###### [pas.plugins.authomatic](https://pypi.org/project/pas.plugins.authomatic/#changelog): 1.1.2
+
+###### [plone.synchronize](https://pypi.org/project/plone.synchronize/#changelog): 1.0.4
+
+###### [pydantic-core](https://pypi.org/project/pydantic-core/#changelog): 0.25.0
+
+###### [pydantic-settings](https://pypi.org/project/pydantic-settings/#changelog): 1.99
+
+###### [python-dotenv](https://pypi.org/project/python-dotenv/#changelog): 1.0.0
+
+###### Internal
+
+- pas.plugins.ldap 1.8.3-eea2, yafowil.plone 4.0.0a6-eea1 - [Valentin Dumitru - [`9313aff`](https://github.com/eea/plone-backend/commit/9313affeb166aed130a597fcc7613446fc46ba36)]
+- Added pas.plugins.authomatic, refs #156821 - [Alexandru Ghica - [`7d98e8f`](https://github.com/eea/plone-backend/commit/7d98e8f7ff5c936f6cd2e007e156fc479b5c93bb)]
+- Revert changes that made Jenkins crash, refs #256518 - [Alexandru Ghica - [`941aa8e`](https://github.com/eea/plone-backend/commit/941aa8ef298b45e2491ac143c654587758e7b4aa)]
+- release of yafowil.plone-4.0.0a6.dev0 - [valentinab25 - [`b26c57c`](https://github.com/eea/plone-backend/commit/b26c57c87a11b1df3fa79634570a8d2e08988129)]
+- release of pas.plugins.ldap-1.8.3.dev0 - [valentinab25 - [`a9d8333`](https://github.com/eea/plone-backend/commit/a9d83334558f8c21cda5a4172c9cf83e2929a721)]
+- Upgrade to Plone 6.0.6, refs #256518 - [Alexandru Ghica - [`6db2f9a`](https://github.com/eea/plone-backend/commit/6db2f9af0e142397fd57496c44635e0ec1bc8d9b)]
+- Update cryptography version
+
+refs #256518 - [Alexandru Ghica - [`ccb658d`](https://github.com/eea/plone-backend/commit/ccb658d25a757b416e6eef7bd583fbbab3b3613b)]
+- feat: Update pins to Plone 6.0.6 - [Alin Voinea - [`3b3ed87`](https://github.com/eea/plone-backend/commit/3b3ed879b0831ee4bad49ae95e83723a11902ed3)]
+
+
 ## [6.0.5-9](https://github.com/eea/advisory-board-backend/releases/tag/6.0.5-9) - 2023-07-31T23:53:46Z
 
 ### Plone
