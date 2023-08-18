@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.0.6-3](https://github.com/eea/advisory-board-backend/releases/tag/6.0.6-3) - 2023-08-18T23:59:30Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.6-1 ~ 6.0.6-2 
+
+##### eeacms/plone-backend:[6.0.6-2](https://github.com/eea/plone-backend/releases/tag/6.0.6-2)
+###### Internal
+
+- chore: Fix sources.ini pushurl - [valentinab25 - [`7a3a4e6`](https://github.com/eea/plone-backend/commit/7a3a4e60c0e4799d1678f417665db9d5aee963c8)]
+
+
 ## [6.0.6-1](https://github.com/eea/advisory-board-backend/releases/tag/6.0.6-1) - 2023-08-16T23:23:31Z
 
 ### Plone
