@@ -1,6 +1,25 @@
 # Changelog
 
 
+## [6.0.6-4](https://github.com/eea/advisory-board-backend/releases/tag/6.0.6-4) - 2023-08-26T00:01:16Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.6-2 ~ 6.0.6-3 
+
+##### eeacms/plone-backend:[6.0.6-3](https://github.com/eea/plone-backend/releases/tag/6.0.6-3)
+###### Dependency updates
+
+###### [pas.plugins.ldap](https://pypi.org/project/pas.plugins.ldap/#changelog): 1.8.3.dev0 ~ 1.8.3.dev2
+
+###### [yafowil.plone](https://pypi.org/project/yafowil.plone/#changelog): 4.0.0a6.dev0 ~ 4.0.0a6.dev1
+
+###### Internal
+
+- Update pas.plugins.ldap and yafowil.plone (wheel compatibility) - [Valentin Dumitru - [`23ca720`](https://github.com/eea/plone-backend/commit/23ca7208be04e1121e9459b172086ccc376b2093)]
+- Update pas.plugins.ldap version - [Valentin Dumitru - [`24f14f7`](https://github.com/eea/plone-backend/commit/24f14f713e22eb47e94a7ef7e627a85d825ce8b0)]
+
+
 ## [6.0.6-3](https://github.com/eea/advisory-board-backend/releases/tag/6.0.6-3) - 2023-08-18T23:59:30Z
 
 ### Plone
