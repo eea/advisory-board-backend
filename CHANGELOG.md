@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.6-6](https://github.com/eea/advisory-board-backend/releases/tag/6.0.6-6) - 2023-09-01T00:02:52Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.6-4 ~ 6.0.6-5 
+
+##### eeacms/plone-backend:[6.0.6-5](https://github.com/eea/plone-backend/releases/tag/6.0.6-5)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 3.0 ~ 3.1
+
+* Change: Feature: Add content rule to unset publication date when private [dobri1408 - refs #147278]
+ [avoinea]
+
+
 ## [6.0.6-5](https://github.com/eea/advisory-board-backend/releases/tag/6.0.6-5) - 2023-08-31T00:06:53Z
 
 ### Plone
