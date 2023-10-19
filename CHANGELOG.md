@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.0.7-2](https://github.com/eea/advisory-board-backend/releases/tag/6.0.7-2) - 2023-10-19T23:42:17Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.7-1 ~ 6.0.7-2 
+
+##### eeacms/plone-backend:[6.0.7-2](https://github.com/eea/plone-backend/releases/tag/6.0.7-2)
+###### Internal
+
+- fix: Fix zope form mem limit also on dev environment - [Alin Voinea - [`580ba42`](https://github.com/eea/plone-backend/commit/580ba423f13365e76ef3907f216d124c2479d8b9)]
+
+
 ## [6.0.7-1](https://github.com/eea/advisory-board-backend/releases/tag/6.0.7-1) - 2023-10-18T23:54:58Z
 
 ### Plone
