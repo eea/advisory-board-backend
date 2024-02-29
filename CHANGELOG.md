@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.9-2](https://github.com/eea/advisory-board-backend/releases/tag/6.0.9-2) - 2024-02-29T00:44:22Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.9-1 ~ 6.0.9-2 
+
+##### eeacms/plone-backend:[6.0.9-2](https://github.com/eea/plone-backend/releases/tag/6.0.9-2)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 3.1 ~ 3.2
+
+* Change: Release
+ [nileshgulia1]
+
+
 ## [6.0.9-1](https://github.com/eea/advisory-board-backend/releases/tag/6.0.9-1) - 2024-02-06T16:45:47Z
 
 ### Plone
