@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [6.0.9-4](https://github.com/eea/advisory-board-backend/releases/tag/6.0.9-4) - 2024-03-15T00:20:23Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.9-3 ~ 6.0.9-4 
+
+##### eeacms/plone-backend:[6.0.9-4](https://github.com/eea/plone-backend/releases/tag/6.0.9-4)
+###### Dependency updates
+
+###### [pas.plugins.authomatic](https://pypi.org/project/pas.plugins.authomatic/#changelog): 1.2.0 ~ 1.2.1.dev1
+
+###### Internal
+
+- feat: Patch release pas.plugins.authomatic 1.2.1.dev1 in order to fix search by fullname and email - [alin - [`2f6a6fa`](https://github.com/eea/plone-backend/commit/2f6a6fac9bcf06e3a7d9835e47dbf3d76241d34b)]
+
+
 ## [6.0.9-3](https://github.com/eea/advisory-board-backend/releases/tag/6.0.9-3) - 2024-03-06T00:43:51Z
 
 ### Plone
