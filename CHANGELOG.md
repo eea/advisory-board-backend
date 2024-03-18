@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.10-2](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-2) - 2024-03-18T14:33:33Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.10-1 ~ 6.0.10-2 
+
+##### eeacms/plone-backend:[6.0.10-2](https://github.com/eea/plone-backend/releases/tag/6.0.10-2)
+###### Dependency updates
+
+###### [eea.kitkat](https://github.com/eea/eea.kitkat/releases): 7.0 ~ 8.0
+
+* Refactor: Move Version overview related code to eea.api.controlpanel
+ [avoinea - refs #264531]
+
+
 ## [6.0.10-1](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-1) - 2024-03-15T17:59:19Z
 
 ### Plone
