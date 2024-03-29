@@ -1,6 +1,24 @@
 # Changelog
 
 
+## [6.0.10-4](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-4) - 2024-03-29T00:17:57Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.10-3 ~ 6.0.10-4 
+
+##### eeacms/plone-backend:[6.0.10-4](https://github.com/eea/plone-backend/releases/tag/6.0.10-4)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 3.2 ~ 3.4
+
+* Change: Develop typo
+ [alecghica]
+
+* Bug fix: fixed the ZMI styles
+ [alecghica refs #267310]
+
+
 ## [6.0.10-3](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-3) - 2024-03-26T00:46:47Z
 
 ### Plone
