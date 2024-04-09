@@ -1,6 +1,28 @@
 # Changelog
 
 
+## [6.0.10-6](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-6) - 2024-04-09T23:47:54Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.10-5 ~ 6.0.10-6 
+
+##### eeacms/plone-backend:[6.0.10-6](https://github.com/eea/plone-backend/releases/tag/6.0.10-6)
+###### Dependency updates
+
+###### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 3.6 ~ 3.7
+
+* Change: updated Organizations taxonomy, added EMA.
+ [alecghica refs #268171]
+
+### Dependency updates
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 3.6 ~ 3.7
+
+* Change: updated Organizations taxonomy, added EMA.
+  [alecghica refs #268171]
+
+
 ## [6.0.10-5](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-5) - 2024-04-03T23:50:38Z
 
 ### Plone
