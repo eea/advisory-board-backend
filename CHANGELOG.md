@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.0.10-7](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-7) - 2024-04-16T23:45:17Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.10-6 ~ 6.0.10-7 
+
+##### eeacms/plone-backend:[6.0.10-7](https://github.com/eea/plone-backend/releases/tag/6.0.10-7)
+###### Dependency updates
+
+###### [eea.api.glossary](https://pypi.org/project/eea.api.glossary/#changelog): 1.1 ~ 1.2
+
+
 ## [6.0.10-6](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-6) - 2024-04-09T23:47:54Z
 
 ### Plone
