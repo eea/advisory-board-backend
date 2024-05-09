@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.10-8](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-8) - 2024-05-09T23:47:11Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.10-7 ~ 6.0.10-8 
+
+##### eeacms/plone-backend:[6.0.10-8](https://github.com/eea/plone-backend/releases/tag/6.0.10-8)
+###### Dependency updates
+
+###### [eea.kitkat](https://github.com/eea/eea.kitkat/releases): 8.0 ~ 8.1
+
+* Change: Develop
+ [alecghica]
+
+
 ## [6.0.10-7](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-7) - 2024-04-16T23:45:17Z
 
 ### Plone
