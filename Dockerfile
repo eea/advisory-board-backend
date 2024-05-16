@@ -1,4 +1,4 @@
-FROM eeacms/plone-backend:6.0.10-8
+FROM eeacms/plone-backend:6.0.10-9
 #ENV PROFILES="eea.advisory.policy:default"
 
 COPY requirements.txt constraints.txt /app/
