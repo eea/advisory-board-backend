@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.10-9](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-9) - 2024-05-16T23:48:50Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.10-8 ~ 6.0.10-9 
+
+##### eeacms/plone-backend:[6.0.10-9](https://github.com/eea/plone-backend/releases/tag/6.0.10-9)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 3.4 ~ 3.5
+
+* Change: feat(serializer): added effective to the default_metadata_fields
+ [ichim-david]
+
+
 ## [6.0.10-8](https://github.com/eea/advisory-board-backend/releases/tag/6.0.10-8) - 2024-05-09T23:47:11Z
 
 ### Plone
