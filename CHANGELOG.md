@@ -1,6 +1,37 @@
 # Changelog
 
 
+## [6.0.11-7](https://github.com/eea/advisory-board-backend/releases/tag/6.0.11-7) - 2024-07-22T11:25:32Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.11-6 ~ 6.0.11-7 
+
+##### eeacms/plone-backend:[6.0.11-7](https://github.com/eea/plone-backend/releases/tag/6.0.11-7)
+###### Dependency updates
+
+###### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 3.8 ~ 4.0
+
+* Change: fix(upgrade-script): add try except for KeyError brain.getObjects()
+ [ichim-david]
+* Fix: Other organisations default value
+ [iugin]
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 5.0 ~ 5.1
+
+* Change: Release
+ [avoinea]
+
+### Dependency updates
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 3.8 ~ 4.0
+
+* Change: fix(upgrade-script): add try except for KeyError brain.getObjects()
+  [ichim-david]
+* Fix: Other organisations default value
+  [iugin]
+
+
 ## [6.0.11-6](https://github.com/eea/advisory-board-backend/releases/tag/6.0.11-6) - 2024-06-19T23:47:57Z
 
 ### Plone
