@@ -1,6 +1,28 @@
 # Changelog
 
 
+## [6.0.11-9](https://github.com/eea/advisory-board-backend/releases/tag/6.0.11-9) - 2024-07-29T23:48:01Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.11-8 ~ 6.0.11-9 
+
+##### eeacms/plone-backend:[6.0.11-9](https://github.com/eea/plone-backend/releases/tag/6.0.11-9)
+###### Dependency updates
+
+###### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 4.1 ~ 4.2
+
+* Change: Cleanup code comments and pdb
+ [iugin]
+
+### Dependency updates
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 4.1 ~ 4.2
+
+* Change: Cleanup code comments and pdb
+  [iugin]
+
+
 ## [6.0.11-8](https://github.com/eea/advisory-board-backend/releases/tag/6.0.11-8) - 2024-07-25T23:46:31Z
 
 ### Plone
