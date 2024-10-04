@@ -1,6 +1,28 @@
 # Changelog
 
 
+## [6.0.11-13](https://github.com/eea/advisory-board-backend/releases/tag/6.0.11-13) - 2024-10-04T10:12:32Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.11-12 ~ 6.0.11-13 
+
+##### eeacms/plone-backend:[6.0.11-13](https://github.com/eea/plone-backend/releases/tag/6.0.11-13)
+###### Dependency updates
+
+###### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 4.2 ~ 4.3
+
+* Change: Fix other organisations metadata
+ [avoinea]
+
+### Dependency updates
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 4.2 ~ 4.3
+
+* Change: Fix other organisations metadata
+  [avoinea]
+
+
 ## [6.0.11-12](https://github.com/eea/advisory-board-backend/releases/tag/6.0.11-12) - 2024-08-24T00:08:28Z
 
 ### Plone
