@@ -1,6 +1,25 @@
 # Changelog
 
 
+## [6.0.13-12](https://github.com/eea/advisory-board-backend/releases/tag/6.0.13-12) - 2025-01-30T19:25:06Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.13-11 ~ 6.0.13-12 
+
+##### eeacms/plone-backend:[6.0.13-12](https://github.com/eea/plone-backend/releases/tag/6.0.13-12)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 6.1 ~ 6.2
+
+* Fix: Add serializer for slate and html blocks refs
+ [dobri1408 - refs #282435]
+* Feature: add block transformer for contextNavigation
+ [nileshgulia1 - refs #282065]
+* Feature: add block transformer for versions
+ [nileshgulia1 - refs #282065]
+
+
 ## [6.0.13-11](https://github.com/eea/advisory-board-backend/releases/tag/6.0.13-11) - 2024-12-12T00:48:10Z
 
 ### Plone
