@@ -1,1 +1,1 @@
-eea.coremetadata==5.2
+eea.coremetadata==5.3
