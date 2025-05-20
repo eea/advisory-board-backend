@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.0.15-7](https://github.com/eea/advisory-board-backend/releases/tag/6.0.15-7) - 2025-05-20T23:15:44Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-7 ~ 6.0.15-7 
+
+
+### Internal
+
+- Update Dockerfile - [dobri1408 -  [`b3797e1`](https://github.com/eea/advisory-board-backend/commit/b3797e1ac52948c1285bac9d63c8a7245b2753e9)]
+- Create zodbpack.conf - [dobri1408 -  [`c9b3185`](https://github.com/eea/advisory-board-backend/commit/c9b3185f05758b70090db094f2156470600e007b)]
+
 ## [6.0.15-6](https://github.com/eea/advisory-board-backend/releases/tag/6.0.15-6) - 2025-04-30T23:51:12Z
 
 ### Plone
