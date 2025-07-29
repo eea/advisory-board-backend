@@ -1,1 +1,2 @@
 eea.coremetadata==5.3
+collective.regenv==1.0.0
