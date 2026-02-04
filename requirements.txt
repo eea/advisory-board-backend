@@ -1,2 +1,1 @@
 eea.coremetadata
-collective.regenv
