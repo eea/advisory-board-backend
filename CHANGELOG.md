@@ -1,6 +1,29 @@
 # Changelog
 
 
+## [6.1.3-6](https://github.com/eea/advisory-board-backend/releases/tag/6.1.3-6) - 2026-02-06T00:59:37Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.3-11 ~ 6.1.3-12 
+
+##### eeacms/plone-backend:[6.1.3-12](https://github.com/eea/plone-backend/releases/tag/6.1.3-12)
+###### Dependency updates
+
+###### [pas.plugins.eea](https://pypi.org/project/pas.plugins.eea/#changelog): 1.5 ~ 1.7
+
+### Dependency updates
+
+#### Removed packages
+
+##### [collective.regenv](https://pypi.org/project/collective.regenv/#changelog): 1.0.0
+
+##### [eea.coremetadata](https://pypi.org/project/eea.coremetadata/#changelog): 5.3
+
+### Internal
+
+- Cleanup addons already existing in plone-backend - [Teodor -  [`9c9dd15`](https://github.com/eea/advisory-board-backend/commit/9c9dd15a441385bf1cab53a0ab525dcc4abfd9cf)]
+
 ## [6.1.3-5](https://github.com/eea/advisory-board-backend/releases/tag/6.1.3-5) - 2026-01-28T14:17:36Z
 
 ### Plone
