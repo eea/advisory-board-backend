@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.1.3-7](https://github.com/eea/advisory-board-backend/releases/tag/6.1.3-7) - 2026-02-19T00:17:00Z
+
+### Dependency updates
+
+#### New packages
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata): 5.3
+
+### Internal
+
+- update constraints - [Teodor -  [`3e88664`](https://github.com/eea/advisory-board-backend/commit/3e886649aa993bde0c8fbb100d1bbfc76c9c24d9)]
+
 ## [6.1.3-6](https://github.com/eea/advisory-board-backend/releases/tag/6.1.3-6) - 2026-02-06T00:59:37Z
 
 ### Plone
