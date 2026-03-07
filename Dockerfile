@@ -1,4 +1,4 @@
-FROM eeacms/plone-backend:6.1.3-14
+FROM eeacms/plone-backend:6.1.3-15
 #ENV PROFILES="eea.advisory.policy:default"
 
 # COPY /develop/etc /app/etc
