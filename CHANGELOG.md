@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.1.3-11](https://github.com/eea/advisory-board-backend/releases/tag/6.1.3-11) - 2026-03-26T01:20:52Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.3-15 ~ 6.1.3-16 
+
+##### eeacms/plone-backend:[6.1.3-16](https://github.com/eea/plone-backend/releases/tag/6.1.3-16)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 11.3 ~ 11.4
+
+* Change: (FIX): Fix 404 page when parent is private refs #284281
+ [dobri1408]
+
+
 ## [6.1.3-10](https://github.com/eea/advisory-board-backend/releases/tag/6.1.3-10) - 2026-03-08T00:16:30Z
 
 ### Plone
