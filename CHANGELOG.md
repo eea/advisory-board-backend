@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.1.4-4](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-4) - 2026-05-26T23:56:44Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.4-3 ~ 6.1.4-4 
+
+##### eeacms/plone-backend:[6.1.4-4](https://github.com/eea/plone-backend/releases/tag/6.1.4-4)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 12.6 ~ 12.7
+
+* Fix: Override Plone search RSS template to use feed item title property
+ [dobri1408]
+
+
 ## [6.1.4-3](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-3) - 2026-05-21T23:59:45Z
 
 ### Plone
