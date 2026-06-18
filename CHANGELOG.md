@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [6.1.4-7](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-7) - 2026-06-18T23:20:05Z
+
+### Internal
+
+- test: increase retrys on tests - [valentinab25 -  [`fb6e07f`](https://github.com/eea/advisory-board-backend/commit/fb6e07f4e9a12993ba221caf9fdb12e4366a2c35)]
+
 ## [6.1.4-6](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-6) - 2026-06-18T00:08:39Z
 
 ### Plone
