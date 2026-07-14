@@ -1,6 +1,35 @@
 # Changelog
 
 
+## [6.1.4-13](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-13) - 2026-07-14T23:20:53Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.4-11 ~ 6.1.4-12 
+
+##### eeacms/plone-backend:[6.1.4-12](https://github.com/eea/plone-backend/releases/tag/6.1.4-12)
+###### Dependency updates
+
+###### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 6.1 ~ 6.2
+
+* Change: Replace the generated Publication type taxonomy field with the
+ dedicated ``publication_type`` behavior and migrate its catalog and
+ search configuration.
+ [dobri1408]
+
+### Dependency updates
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 6.1 ~ 6.2
+
+* Change: Replace the generated Publication type taxonomy field with the
+  dedicated ``publication_type`` behavior and migrate its catalog and
+  search configuration.
+  [dobri1408]
+
+### Internal
+
+- fix: Add betterleaks github action - refs #304517 - [dobri1408 -  [`b6c315c`](https://github.com/eea/advisory-board-backend/commit/b6c315c9678d3dfc1a12d794fe246e8ac9cf3d18)]
+
 ## [6.1.4-12](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-12) - 2026-07-13T23:58:41Z
 
 ### Plone
