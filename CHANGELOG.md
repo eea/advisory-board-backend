@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.1.4-17](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-17) - 2026-08-08T00:18:14Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.4-15 ~ 6.1.4-16 
+
+##### eeacms/plone-backend:[6.1.4-16](https://github.com/eea/plone-backend/releases/tag/6.1.4-16)
+###### Internal
+
+- fix: arm64 image builds on github actions - [Alin Voinea - [`35cd2ff`](https://github.com/eea/plone-backend/commit/35cd2ff11bafcc6b19b5fb2425903f94acbee89b)]
+
+
 ## [6.1.4-16](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-16) - 2026-08-07T09:56:43Z
 
 ### Plone
