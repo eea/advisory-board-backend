@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.1.4-24](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-24) - 2026-10-02T00:11:02Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.4-22 ~ 6.1.4-23 
+
+##### eeacms/plone-backend:[6.1.4-23](https://github.com/eea/plone-backend/releases/tag/6.1.4-23)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 14.0 ~ 14.1
+
+* Change: Add children sort_order and sort_on for given portal_types to sort
+ [nileshgulia1]
+
+
 ## [6.1.4-23](https://github.com/eea/advisory-board-backend/releases/tag/6.1.4-23) - 2026-10-01T00:02:09Z
 
 ### Plone
